@@ -12,6 +12,7 @@ Instruction on how to run: Instruction on how to run: Download the source code a
 Hr/Supervisor access: employee@justineconsulta@gamil.com 
 
 Password: Justine
+
 Emplyoee Access:  employee.hazelannnoquera@gmail.com
 
 Password: hazelann
