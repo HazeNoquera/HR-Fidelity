@@ -10,11 +10,9 @@ Features: Managing employees, applying leave, Leave configurations such as manag
 Instruction on how to run: Instruction on how to run: Download the source code and extract the zip file or clone it on github. Download XAMPP and start apache and MySQL. Click Admin in MySQL on XAMPP Control Panel and create a new database name it "hr-fidelity". Import the SQL file located in the database folder of the source code folder. Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs') Open a web browser and browse the project. E.g [http://localhost/HR-Fidelity/Login.php]
 
 Hr/Supervisor access: employee@justineconsulta@gamil.com 
-
 Password: Justine
 
 Emplyoee Access:  employee.hazelannnoquera@gmail.com
-
 Password: hazelann
 
 Thank You.
