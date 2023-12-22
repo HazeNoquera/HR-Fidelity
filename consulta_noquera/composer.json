@@ -1,0 +1,17 @@
+{
+    "name": "justine/consulta_noquera",
+    "autoload": {
+        "psr-4": {
+            "Justine\\ConsultaNoquera\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Justine",
+            "email": "Consultajustine850@gmail.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
